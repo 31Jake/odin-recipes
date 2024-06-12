@@ -1,0 +1,39 @@
+.Main-Page {
+    background-color: rgb(255, 255, 74);
+    color: black;
+    text-align:center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 50px;
+}
+
+.recipe {
+    font-size: 30px;
+}
+
+.food-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.home-page {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.food-title {
+    text-align: center;
+    font-weight: bold;
+    font-family: "Playflair Display", sans-serif;
+}
+
+li {
+    font-size: 16px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h2 {
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(156, 4, 24)
+}
